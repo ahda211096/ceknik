@@ -2,7 +2,7 @@
 /*
 CEK NIK KTP
 Author: Iansangaji
-Usage: php cek-nik.php yournik
+Usage: php cek-nik.php 1271120106910001
 */
 function curl_ceknik($url){
     $ch = curl_init(); 
